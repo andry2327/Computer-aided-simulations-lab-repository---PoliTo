@@ -1,0 +1,787 @@
+{
+    "01TXAS": {
+        "exam_name": "Data management and visualization",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 206,
+                "tot_passed": 141,
+                "grades_count": [
+                    5,
+                    7,
+                    5,
+                    5,
+                    6,
+                    11,
+                    16,
+                    12,
+                    13,
+                    21,
+                    17,
+                    13,
+                    10
+                ]
+            }
+        }
+    },
+    "01TWZSM": {
+        "exam_name": "Data science lab: process and methods",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 274,
+                "tot_passed": 179,
+                "grades_count": [
+                    7,
+                    10,
+                    10,
+                    12,
+                    13,
+                    13,
+                    17,
+                    12,
+                    24,
+                    14,
+                    10,
+                    14,
+                    23
+                ]
+            }
+        }
+    },
+    "02TWYSM": {
+        "exam_name": "Computational linear algebra for large scale problems",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 75,
+                "tot_passed": 56,
+                "grades_count": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    2,
+                    5,
+                    2,
+                    2,
+                    13,
+                    4,
+                    27
+                ]
+            }
+        }
+    },
+    "01TWWSM": {
+        "exam_name": "Statistical methods in data science",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 208,
+                "tot_passed": 135,
+                "grades_count": [
+                    21,
+                    16,
+                    10,
+                    7,
+                    5,
+                    10,
+                    4,
+                    4,
+                    6,
+                    11,
+                    13,
+                    9,
+                    19
+                ]
+            }
+        }
+    },
+    "01TXCSM": {
+        "exam_name": "Decision making and optimization",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 88,
+                "tot_passed": 48,
+                "grades_count": [
+                    5,
+                    3,
+                    2,
+                    0,
+                    3,
+                    0,
+                    6,
+                    5,
+                    1,
+                    4,
+                    2,
+                    3,
+                    14
+                ]
+            }
+        }
+    },
+    "01DTGSM": {
+        "exam_name": "Information Theory for Data Science",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 43,
+                "tot_passed": 31,
+                "grades_count": [
+                    3,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0,
+                    3,
+                    9,
+                    5,
+                    9
+                ]
+            }
+        }
+    },
+    "01TXDSM": {
+        "exam_name": "Numerical optimization for large scale problems and Stochastic Optimization",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 140,
+                "tot_passed": 80,
+                "grades_count": [
+                    3,
+                    0,
+                    0,
+                    3,
+                    1,
+                    1,
+                    0,
+                    3,
+                    10,
+                    8,
+                    14,
+                    12,
+                    25
+                ]
+            }
+        }
+    },
+    "04JEYSM": {
+        "exam_name": "Object oriented programming",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 351,
+                "tot_passed": 163,
+                "grades_count": [
+                    7,
+                    10,
+                    1,
+                    10,
+                    8,
+                    9,
+                    10,
+                    10,
+                    10,
+                    16,
+                    23,
+                    17,
+                    32
+                ]
+            }
+        }
+    },
+    "01URZSM": {
+        "exam_name": "Data Ethics and Data Protection",
+        "cfu": 6,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 241,
+                "tot_passed": 135,
+                "grades_count": [
+                    16,
+                    10,
+                    11,
+                    16,
+                    12,
+                    13,
+                    15,
+                    12,
+                    9,
+                    8,
+                    10,
+                    3,
+                    0
+                ]
+            }
+        }
+    },
+    "01TUYSM": {
+        "exam_name": "Distributed architectures for big data processing and analytics",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 225,
+                "tot_passed": 147,
+                "grades_count": [
+                    17,
+                    4,
+                    4,
+                    5,
+                    2,
+                    9,
+                    4,
+                    6,
+                    7,
+                    14,
+                    12,
+                    19,
+                    44
+                ]
+            }
+        }
+    },
+    "01TXFSM": {
+        "exam_name": "Machine learning and Deep learning",
+        "cfu": 10,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 206,
+                "tot_passed": 141,
+                "grades_count": [
+                    13,
+                    0,
+                    5,
+                    7,
+                    5,
+                    8,
+                    9,
+                    12,
+                    10,
+                    22,
+                    27,
+                    28,
+                    57
+                ]
+            }
+        }
+    },
+    "01TXGSM": {
+        "exam_name": "Mathematics in Machine Learning",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 280,
+                "tot_passed": 115,
+                "grades_count": [
+                    8,
+                    15,
+                    9,
+                    11,
+                    9,
+                    9,
+                    8,
+                    6,
+                    7,
+                    6,
+                    4,
+                    9,
+                    14
+                ]
+            }
+        }
+    },
+    "01TXISM": {
+        "exam_name": "Innovation management",
+        "cfu": 6,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 136,
+                "tot_passed": 99,
+                "grades_count": [
+                    10,
+                    4,
+                    12,
+                    9,
+                    7,
+                    11,
+                    4,
+                    8,
+                    7,
+                    9,
+                    7,
+                    3,
+                    8
+                ]
+            }
+        }
+    },
+    "01DTHSM": {
+        "exam_name": "Computer-aided simulations lab",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 46,
+                "tot_passed": 28,
+                "grades_count": [
+                    2,
+                    2,
+                    0,
+                    0,
+                    1,
+                    3,
+                    0,
+                    1,
+                    1,
+                    1,
+                    2,
+                    5,
+                    10
+                ]
+            }
+        }
+    },
+    "01TXLSM": {
+        "exam_name": "Network Dynamics and Learning",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 84,
+                "tot_passed": 53,
+                "grades_count": [
+                    3,
+                    0,
+                    1,
+                    4,
+                    0,
+                    3,
+                    4,
+                    5,
+                    3,
+                    4,
+                    6,
+                    9,
+                    11
+                ]
+            }
+        }
+    },
+    "01DTFSM": {
+        "exam_name": "Time dependent data with Markov chains",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 16,
+                "tot_passed": 9,
+                "grades_count": [
+                    2,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    2,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        }
+    },
+    "01VIXSM": {
+        "exam_name": "Deep natural language processing",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 91,
+                "tot_passed": 62,
+                "grades_count": [
+                    5,
+                    1,
+                    1,
+                    4,
+                    1,
+                    1,
+                    2,
+                    4,
+                    4,
+                    3,
+                    8,
+                    6,
+                    22
+                ]
+            }
+        }
+    },
+    "01TXPSM": {
+        "exam_name": "Machine learning for IOT",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 75,
+                "tot_passed": 60,
+                "grades_count": [
+                    2,
+                    4,
+                    1,
+                    2,
+                    3,
+                    3,
+                    2,
+                    6,
+                    2,
+                    4,
+                    2,
+                    5,
+                    24
+                ]
+            }
+        }
+    },
+    "01TXXSM": {
+        "exam_name": "Applied data science project",
+        "cfu": 12,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 33,
+                "tot_passed": 26,
+                "grades_count": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    9,
+                    16
+                ]
+            }
+        }
+    },
+    "01HR*SM": {
+        "exam_name": "Challenge@PoliTo",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": -1,
+                "tot_passed": -1,
+                "grades_count": []
+            }
+        }
+    },
+    "01DTUSM": {
+        "exam_name": "BioQuants",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 28,
+                "tot_passed": 20,
+                "grades_count": [
+                    1,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    1,
+                    0,
+                    2,
+                    2,
+                    5,
+                    5,
+                    2
+                ]
+            }
+        }
+    },
+    "01TYDSM": {
+        "exam_name": "Cloud Computing",
+        "cfu": 6,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 117,
+                "tot_passed": 106,
+                "grades_count": [
+                    3,
+                    4,
+                    5,
+                    5,
+                    9,
+                    12,
+                    13,
+                    11,
+                    10,
+                    7,
+                    7,
+                    7,
+                    13
+                ]
+            }
+        }
+    },
+    "01URRSM": {
+        "exam_name": "Computational intelligence",
+        "cfu": 6,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 117,
+                "tot_passed": 85,
+                "grades_count": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    2,
+                    1,
+                    2,
+                    2,
+                    4,
+                    4,
+                    5,
+                    0,
+                    63
+                ]
+            }
+        }
+    },
+    "01PPPSM": {
+        "exam_name": "Financial Engineering",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 42,
+                "tot_passed": 7,
+                "grades_count": [
+                    0,
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    2,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "02JSKSM": {
+        "exam_name": "Human Computer Interaction",
+        "cfu": 6,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 199,
+                "tot_passed": 155,
+                "grades_count": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    3,
+                    6,
+                    27,
+                    27,
+                    92
+                ]
+            }
+        }
+    },
+    "01PDWSM": {
+        "exam_name": "Information systems",
+        "cfu": 6,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 160,
+                "tot_passed": 112,
+                "grades_count": [
+                    3,
+                    1,
+                    3,
+                    6,
+                    5,
+                    12,
+                    11,
+                    10,
+                    13,
+                    14,
+                    9,
+                    9,
+                    16
+                ]
+            }
+        }
+    },
+    "01TYMSM": {
+        "exam_name": "Information systems security",
+        "cfu": 6,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 326,
+                "tot_passed": 188,
+                "grades_count": [
+                    40,
+                    12,
+                    14,
+                    21,
+                    10,
+                    19,
+                    18,
+                    8,
+                    11,
+                    13,
+                    13,
+                    4,
+                    5
+                ]
+            }
+        }
+    },
+    "01RMYSM": {
+        "exam_name": "Modelli matematici per la Biomedicina",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 63,
+                "tot_passed": 42,
+                "grades_count": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    4,
+                    2,
+                    5,
+                    1,
+                    7,
+                    6,
+                    15
+                ]
+            }
+        }
+    },
+    "17FWYSM": {
+        "exam_name": "Internship",
+        "cfu": 12,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": -1,
+                "tot_passed": -1,
+                "grades_count": [
+                ]
+            }
+        }
+    },
+    "01HFOSM": {
+        "exam_name": "Explainable and trustworthy AI",
+        "cfu": 6,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": -1,
+                "tot_passed": -1,
+                "grades_count": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            }
+        }
+    },
+    "02TYJSM": {
+        "exam_name": "Metodi quantitativi per la gestione del rischio",
+        "cfu": 8,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 48,
+                "tot_passed": 35,
+                "grades_count": [
+                    1,
+                    1,
+                    3,
+                    0,
+                    4,
+                    6,
+                    3,
+                    6,
+                    3,
+                    3,
+                    1,
+                    1,
+                    3
+                ]
+            }
+        }
+    },
+    "01TXYSM": {
+        "exam_name": "Web Applications I",
+        "cfu": 6,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": 175,
+                "tot_passed": 118,
+                "grades_count": [
+                    1,
+                    0,
+                    3,
+                    1,
+                    1,
+                    1,
+                    2,
+                    6,
+                    4,
+                    7,
+                    12,
+                    14,
+                    66
+                ]
+            }
+        }
+    },
+    "17MBRSM": {
+        "exam_name": "Thesis",
+        "cfu": 22,
+        "exam_stats": {
+            "2023": {
+                "tot_enrolled": -1,
+                "tot_passed": -1,
+                "grades_count": [
+                ]
+            }
+        }
+    }
+}
